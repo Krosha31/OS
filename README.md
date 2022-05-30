@@ -28,7 +28,7 @@
     15. export PATH=”/home/krosha:$PATH”
     16. apt-get upgrade
     17. -
-    18. alias c=clear
+    18. alias c=clear / gedit  ~/.bash_aliases
     19. Settings → Preferences → Unnamed → Colors
     20. --
     21. grep – утилита поиска по заданному регулярному выражению
