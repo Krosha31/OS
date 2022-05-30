@@ -25,7 +25,7 @@
     12. ip adress| grep inet / ip address | grep ether
     13. ps -efH \ top
     14. export K=5
-    15. export PATH=”/home:$PATH”
+    15. export PATH=”/home/krosha:$PATH”
     16. apt-get upgrade
     17. -
     18. alias c=clear
